@@ -15,4 +15,9 @@ Trading timing optimization strategies (VWAP, TWAP, POV) <br/><br/><br/><br/>
 
 Image credits: Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> <br/><br/>
   
+<br/><br/>
+See related repositories:<br/>
 
+https://github.com/AngelJavierSalazar/yahoo-financial-data-retrieval. <br/>
+
+https://github.com/AngelJavierSalazar/backtesting-python-bt <br/>
